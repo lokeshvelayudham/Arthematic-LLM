@@ -45,7 +45,7 @@ The project includes the following visualizations to highlight model performance
     ![Fine-Tuning GPT-2 Loss Graph](./Visualizations/FineTuning_GPT2_Loss_Plot.png)
 5.	**Accuracy Comparison Bar Graphs:**
     Highlights the accuracy of the Custom Transformer and GPT-2 across various arithmetic operations.
-    ![Accuracy Comparison Bar Graphs](./Visualizations/Accuracy_Comparison_Bar_Graphs.png)
+    ![Accuracy Comparison Bar Graphs](./Visualizations/accuracy_comparison_bar_graphs.png)
 
 ## How to Use
 
